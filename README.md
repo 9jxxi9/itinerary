@@ -8,7 +8,7 @@
 ___
 > "Every flight needs a good and accurate schedule. I hope this schedule was well edited."
 >
-> Nikita Strekalov
+> JURI BOIKOV
 ___
 
 ## Help Message
