@@ -3,7 +3,7 @@
 ***
 
 ## 1 task Golang
-### Nikita Strekalov
+### Juri Boikov
 
 ___
 > "Every flight needs a good and accurate schedule. I hope this schedule was well edited."
